@@ -1,0 +1,24 @@
+{
+  "name": "csv-ajax-chartjs",
+  "version": "1.0.0",
+  "description": "https://parceljs.org/ https://data.giss.nasa.gov/gistemp/ https://www.papaparse.com/ https://www.chartjs.org/ рисуем метки и датасеты кастомные поинты",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Oksana-coder/csv-ajax-chartjs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Oksana-coder/csv-ajax-chartjs/issues"
+  },
+  "homepage": "https://github.com/Oksana-coder/csv-ajax-chartjs#readme",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5"
+  }
+}
