@@ -2,6 +2,6 @@
 - https://data.giss.nasa.gov/gistemp/
 - https://www.papaparse.com/
 - https://www.chartjs.org/
-рисуем, 
+- рисуем, 
 метки и датасеты,
 кастомные поинты
